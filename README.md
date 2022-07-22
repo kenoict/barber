@@ -24,10 +24,6 @@ Our kind of question.
 
 The front-end of IdeaDog is built in React, with TypeScript, while the back-end runs on Rust. In our book, TypeScript + Rust = The Ultimate Statically-Typed Web App!
 
-## Medium Blog Posts :newspaper:
-
-For a more in-depth description of IdeaDog as well as an overview of its tech stack and development process, we have written a series of articles on Medium. You can read them at the links below
-
 ## Tech Stack :poodle:
 
 
